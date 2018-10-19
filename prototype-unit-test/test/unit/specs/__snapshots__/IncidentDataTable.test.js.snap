@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IncidentDataTable.vue matches snapshot 1`] = `
+<div class="incident-data-table">
+    <eltable-stub data="[object Object],[object Object],[object Object]" fit="true" border="true" showheader="true" emptytext="No Data" defaultsort="[object Object]" selectonindeterminate="true" style="width: 100%;">
+        <eltablecolumn-stub type="default" label="ID" prop="id" width="80" sortable="" resizable="true" filtermultiple="true" sortorders="ascending,descending," class="eltablecolum"></eltablecolumn-stub>
+        <eltablecolumn-stub type="default" label="タイトル" prop="title" width="" sortable="" resizable="true" filtermultiple="true" sortorders="ascending,descending," class="eltablecolum"></eltablecolumn-stub>
+        <eltablecolumn-stub type="default" label="発生日時" prop="occurred_at" width="180" sortable="" resizable="true" formatter="function () { [native code] }" filtermultiple="true" sortorders="ascending,descending," class="eltablecolum"></eltablecolumn-stub>
+        <eltablecolumn-stub type="default" label="担当者" prop="assigned_to" width="180" sortable="" resizable="true" filtermultiple="true" sortorders="ascending,descending," class="eltablecolum"></eltablecolumn-stub>
+    </eltable-stub>
+</div>
+`;

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Appheader.vue matches snapshot 1`] = `
+<div class="app-header">
+    <elmenu-stub mode="horizontal" defaultactive="1" menutrigger="hover" backgroundcolor="#333" textcolor="#fff" activetextcolor="#fff" collapsetransition="true" class="elmenu">
+        <router-link-stub to="[object Object]" tag="a" event="click">
+            <elmenuitem-stub index="1" class="elmenuitem">Home</elmenuitem-stub>
+        </router-link-stub>
+    </elmenu-stub>
+</div>
+`;

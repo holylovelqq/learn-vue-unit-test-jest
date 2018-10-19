@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`page-test matchs snapshot 1`] = `
+<div>
+  <p>
+    first
+  </p>
+  <p>
+    second
+  </p>
+</div>
+`;

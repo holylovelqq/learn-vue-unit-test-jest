@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App.vue matches snapshot 1`] = `
+<div id="app">
+    <elcontainer-stub>
+        <elheader-stub height="60px">
+            <appheader-stub></appheader-stub>
+        </elheader-stub>
+        <elmain-stub>
+            <router-view-stub name="default"></router-view-stub>
+        </elmain-stub>
+    </elcontainer-stub>
+</div>
+`;
